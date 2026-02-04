@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm a bachelor's student at NSU.<br>⚡I'm developing my skills in backend development.<br>😄I enjoy active recreation.<br>🌱I'm passionate about machine vision technologies.
+🔭I'm a bachelor's student at NSU.<br>⚡I develop my skills in backend development.<br>😄I enjoy active recreation.<br>🌱I'm passionate about machine vision technologies.
 
 
 # 💻 Tech Stack:
